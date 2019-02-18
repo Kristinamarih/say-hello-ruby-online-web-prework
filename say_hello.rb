@@ -2,4 +2,5 @@
 def say_hello(name = "Ruby Programmer")
   puts "Hello #{Kristina}"
 end
+say_hello
 
